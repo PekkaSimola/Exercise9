@@ -1,0 +1,7 @@
+.bg-primary{
+    background-color: #5ec4dd !important;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
